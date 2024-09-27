@@ -1,1 +1,1 @@
-# Dice_game_for_two
+# dice.html
